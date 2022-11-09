@@ -1,4 +1,4 @@
-<p><img align="left" alt="gif" src="https://github.com/Nildas98/Nildas98/blob/main/greetings.gif" width="400" height="100" /></p>
+<p><img align="center" alt="gif" src="https://github.com/Nildas98/Nildas98/blob/main/greetings.gif" width="500" height="100" /></p>
 
 <h1 align="center">I'm Nilutpal Das</h1>
 - 🔭 A Data Science Enthusiast.
