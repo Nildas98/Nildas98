@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nilutpal Das</h1>
+![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+
+<h1 align="center">I'm Nilutpal Das</h1>
 - 🔭 A Data Science Enthusiast.
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision**
