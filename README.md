@@ -1,5 +1,6 @@
 <p><img align="center" alt="gif" src="https://github.com/Nildas98/Nildas98/blob/main/greetings.gif" width="1200" height="300" /></p>
 <h1 align="center">I'm Nilutpal Das</h1>
+
 - 🔭 A Data Science Enthusiast.
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision**
