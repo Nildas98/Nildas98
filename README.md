@@ -1,4 +1,4 @@
-![](https://github.com/Nildas98/Greetings.gif.gif)
+![](https://github.com/Nildas98/greetings.GIF.gif)
 
 <h1 align="center">I'm Nilutpal Das</h1>
 - 🔭 A Data Science Enthusiast.
