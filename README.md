@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilutpal Das</h1>
-- 🔭 **A Data Science Enthusiast.**
+- 🔭 A Data Science Enthusiast.
 
 - 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision**
 
