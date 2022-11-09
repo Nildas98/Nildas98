@@ -1,4 +1,4 @@
-![](https://github.com/Your_Repository_Name/Your_GIF_Name.gif)
+![](https://github.com/Nildas98/Greetings.gif.gif)
 
 <h1 align="center">I'm Nilutpal Das</h1>
 - 🔭 A Data Science Enthusiast.
