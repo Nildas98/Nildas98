@@ -1,28 +1,26 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nilutpal Das
-====================================================================================================================================
+<h1 align="center">Hi 👋, I'm Nilutpal Das</h1>
+- 🔭 **A Data Science Enthusiast.**
 
-A Data Science Enthusiast
--------------------------
+- 🌱 I’m currently learning **Machine Learning/Deep Learning/NLP/Computer Vision**
 
-*   🖥️  See my portfolio at [Github](http://github.com/Nildas98)
-*   ✉️  You can contact me at [nilutpaldas992@gmail.com](mailto:nilutpaldas992@gmail.com)
-*   🧠  I'm learning Machine Learning/Deep Learning/NLP/Computer Vision### Skills 
+- 👨‍💻 All of my projects are available at [https://github.com/Nildas98](https://github.com/Nildas98)
+
+- 📝 I regularly write articles on [https://www.linkedin.com/in/nildas98/recent-activity/shares/](https://www.linkedin.com/in/nildas98/recent-activity/shares/)
+
+- 📫 How to reach me **nilutpaldas992@gmail.com**
+
+- ⚡ Fun fact **I love photography and watching anime**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://linkedin.com/in/nildas98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nildas98" height="30" width="40" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://discord.com/users/Nilutpal Das#9230" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.github.com/Nildas98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/nildas98" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/Nildas98"><img src="https://github-readme-stats.vercel.app/api?username=Nildas98&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nildas98's GitHub stats" /></a><a
-                      href="http://www.github.com/Nildas98"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=Nildas98&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a><a href="https://github.com/Nildas98" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nildas98&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nildas98&show_icons=true&locale=en&layout=compact" alt="nildas98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nildas98&show_icons=true&locale=en" alt="nildas98" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nildas98&" alt="nildas98" /></p>
