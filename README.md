@@ -1,5 +1,5 @@
 <p><img align="middle" alt="gif" src="https://github.com/Nildas98/Nildas98/blob/main/greetings.gif" width="1200" height="200" /></p>
-<p><img align="right" alt="gif" src="https://github.com/Nildas98/Nildas98/blob/main/sultan-alrefaei-programmer.gif" width="1200" height="200" /></p>
+<p><img align="right" alt="gif" src="https://github.com/Nildas98/Nildas98/blob/main/sultan-alrefaei-programmer.gif" width="400" height="300" /></p>
 <h1 align="center">I'm Nilutpal Das</h1>
 
 - 🔭 A Data Science Enthusiast.
@@ -11,8 +11,6 @@
 - 📝 I regularly write articles on [https://www.linkedin.com/in/nildas98/recent-activity/shares/](https://www.linkedin.com/in/nildas98/recent-activity/shares/)
 
 - 📫 How to reach me **nilutpaldas992@gmail.com**
-
-- ⚡ Fun fact **I love photography and watching anime**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
